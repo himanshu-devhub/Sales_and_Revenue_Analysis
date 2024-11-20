@@ -43,6 +43,7 @@ In today’s fast-paced business environment, understanding sales performance is
 🎯 Objective: Empower businesses with actionable insights to optimize sales strategies and maximize revenue.
 
 🚀 Key Highlights
+
 📈 Trends Analysis: Visualized seasonal sales patterns and high-performing categories.
 📊 Data-Driven Forecasting: Built models to predict future revenue with precision.
 💡 Actionable Insights: Identified the key drivers of sales performance.
@@ -51,7 +52,9 @@ In today’s fast-paced business environment, understanding sales performance is
 Python: Pandas, Matplotlib, Seaborn, Plotly for analysis and visualization.
 Machine Learning: Forecasting models using Scikit-learn and Statsmodels.
 Visualization Tools: Tableau / Power BI for professional-grade dashboards.
+
 📁 Dataset
+
 Source: Public Dataset from Kaggle
 Data Includes:
 Sales figures across regions and categories.
